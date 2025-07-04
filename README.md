@@ -35,5 +35,5 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"width="30" height="30" />
 </p>
 
-
+[![Jiayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cj1ayi)](https://github.com/anuraghazra/github-readme-stats)
 
