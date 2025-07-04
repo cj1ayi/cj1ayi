@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Nate 🦈
 
 <!--
 **cj1ayi/cj1ayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 ### Languages
  <p align="left">
@@ -35,4 +32,5 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"width="30" height="30" />
 </p>
 
+### not-so-good stats (for now)
 ![Jiayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cj1ayi&show_icons=true&theme=transparent)
