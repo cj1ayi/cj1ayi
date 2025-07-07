@@ -1,5 +1,5 @@
 ## Hi, I'm Nate 🦈
-- Major: Software Technology 🖥️
+- Major: Software Tech 🖥️
 - Level: Beginner 🌱
 <!--
 **cj1ayi/cj1ayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
