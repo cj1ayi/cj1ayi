@@ -21,7 +21,3 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"width="30" height="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"width="30" height="30" />
 </p>
-
----
-
-![Jiayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cj1ayi&show_icons=true&theme=transparent)
