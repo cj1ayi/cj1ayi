@@ -1,4 +1,4 @@
-## Hi, I'm Nate 🦈
+## Hi! I'm Nate 🦈
 - Major: Software Tech 🖥️
 - Level: Beginner 🌱
 <!--
