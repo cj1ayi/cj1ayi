@@ -1,5 +1,5 @@
 ## Hi! I'm Nate 🦈
-I love computers, programming, and art.
+I love computers, programming, and arts.
 - Major: Software Tech 🖥️
 - Level: Beginner 🌱
 <!--
