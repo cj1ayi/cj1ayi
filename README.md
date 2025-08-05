@@ -1,6 +1,6 @@
 ## Hi! I'm Nate 🦈
 I love computers, programming, and arts.
-- Major: Software Technology 💻 -> Network and Information Security 🧑‍💻
+- Major: Software Technology 💻 → Network and Information Security 🧑‍💻
 - Level: Beginner 🌱
 <!--
 **cj1ayi/cj1ayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
