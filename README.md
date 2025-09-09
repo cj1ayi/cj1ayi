@@ -7,10 +7,10 @@ I love computers, programming, video games, and arts.
 -->
 ---
 ### Languages I'm learning
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,python,godot,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,python,godot,kotlin,mysql)](https://skillicons.dev)
 
 ### Tools I use
-[![My Tools](https://skillicons.dev/icons?i=linux,fedora,windows,vscode,figma,idea,godot)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,fedora,windows,vscode,figma,idea,godot,blender,notion,obsidian)](https://skillicons.dev)
 
  
 </p>
