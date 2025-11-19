@@ -1,5 +1,5 @@
 ## Hi! I'm Nate 🦈
-I love computers, programming, cybersecurity & networking, video games, and arts.
+I <3 computers, programming, cybersecurity & networking, video games, and arts.
 - Major: Network and Information Security 🧑‍💻 (formerly Software Technology)
 - Level: Beginner 🌱
 <!--
