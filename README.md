@@ -1,6 +1,6 @@
 ## Hi! I'm Nate 🦈
 I <3 computers, programming, cybersecurity & networking, video games, and arts.
-- Major: Network and Information Security 🧑‍💻 (formerly Software Technology)
+- Major/Specialization: Network and Information Security 🧑‍💻 (formerly Software Technology)
 - Level: Beginner 🌱
 <!--
 **cj1ayi/cj1ayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
