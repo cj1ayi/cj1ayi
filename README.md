@@ -12,7 +12,7 @@ I <3 computers, programming, cybersecurity & networking, video games, and arts.
 [![Web & Backend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,mysql,mongodb,supabase,sqlite)](https://skillicons.dev)
 
 ### 🛡️ Cybersecurity & Operating Systems
-[![OS & Security](https://skillicons.dev/icons?i=kali,fedora,ubuntu,mint,linux,windows)](https://skillicons.dev)
+[![OS & Security](https://skillicons.dev/icons?i=kali,redhat,ubuntu,mint,linux,windows)](https://skillicons.dev)
 
 ### 👾 Game Development
 [![Game Dev](https://skillicons.dev/icons?i=godot,lua)](https://skillicons.dev)
