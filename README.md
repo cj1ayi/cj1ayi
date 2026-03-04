@@ -4,7 +4,6 @@ I <3 computers, programming, cybersecurity & networking, video games, and arts.
 **cj1ayi/cj1ayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## 🚀 Technologies I'm Using & Learning
----
 ### 💻 Core Programming
 [![Core Skills](https://skillicons.dev/icons?i=c,java,python,kotlin)](https://skillicons.dev)
 
