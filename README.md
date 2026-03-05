@@ -3,7 +3,7 @@ I <3 computers, programming, cybersecurity & networking, video games, and arts.
 <!--
 **cj1ayi/cj1ayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Technologies I'm Using & Learning
+## Technologies
 ### 💻 Core Programming
 [![Core Skills](https://skillicons.dev/icons?i=c,java,python,kotlin)](https://skillicons.dev)
 
@@ -16,6 +16,4 @@ I <3 computers, programming, cybersecurity & networking, video games, and arts.
 ### 👾 Game Development
 [![Game Dev](https://skillicons.dev/icons?i=godot,lua)](https://skillicons.dev)
 
-### 🛠️ Tools, Design & Productivity
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,figma,blender,obsidian)](https://skillicons.dev)
 </p>
