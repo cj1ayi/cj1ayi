@@ -17,3 +17,5 @@ I <3 computers, programming, cybersecurity & networking, video games, and arts.
 [![Game Dev](https://skillicons.dev/icons?i=godot,lua)](https://skillicons.dev)
 
 </p>
+
+<img src="https://gitpk.vercel.app/api/readme?username=cj1ayi&theme=Catppuccin%20Mocha" />
